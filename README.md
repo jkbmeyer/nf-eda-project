@@ -3,7 +3,7 @@
 - I didn't split the work up into multiple notebooks. We discussed that this would be better most of the time, but I didn't start that way it would've been too much effort to do it after the fact.
 - The 'clean' notebook is [the one called AmyWilliams](https://github.com/jkbmeyer/nf-eda-project/blob/main/AmyWilliams.ipynb). It's got markdown comments explaining my reasoning and what the code is doing, so it's hopefully somewhat easy to follow.
 - If you want to see the mess that got me all the results in the first place, you can check [the one called EDA](https://github.com/jkbmeyer/nf-eda-project/blob/main/EDA.ipynb). When you think about what we talked about for best practices, here you can see the opposite of that.
-- I also added the presentation, which summarizes all the results (hopefully somewhat nicely). If something's unclear, there's very likely a corresponding explanation in the AmyWilliams notebook, which roughly follows the structure of the presentation, too.
+- I also added the presentation, which summarizes all the results (hopefully somewhat nicely). If something's unclear, there's very likely a corresponding explanation in the AmyWilliams notebook, which roughly follows the structure of the presentation, too. You can't view the presentation here because the file size is too large, but you can download it if you like.
 
 **The setup below is the same as the template, should work**
 
